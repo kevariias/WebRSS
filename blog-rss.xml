@@ -2,13 +2,13 @@
 <rss version="2.0">
 <channel>
   <title>My Blog</title>
-  <link>https://www.example.com/</link>
-  <description>This is my personal blog.</description>
+  <link>https://kevariias.github.io/WebRSS/</link>
+  <description>Sitio web by Kevin Arias.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>2025-02-11 10:30:00 GMT</lastBuildDate>
 
   <item>
-    <title>Blog Entry 1</title>
+    <title>Articulo Nº1</title>
     <link>https://www.example.com/blog-entry-1.html</link>
     <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
 <pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
@@ -16,14 +16,14 @@
 </item>
 
   <item>
-    <title>Blog Entry 2</title>
+    <title>Articulo Nº2</title>
     <link>https://www.example.com/blog-entry-2.html</link>
     <description>Proin tincidunt auctor urna, non iaculis dolor cursus nec. Sed ut risus nisl. Morbi id elit eget erat aliquet ullamcorper.</description>
     <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
     <guid>https://www.example.com/blog-entry-2.html</guid>
   </item>
   <item>
-    <title>Blog Entry 3</title>
+    <title>Articulo Nº3</title>
     <link>https://www.example.com/blog-entry-3.html</link>
     <description>Praesent eleifend metus et odio ullamcorper, at auctor elit venenatis. Sed cursus malesuada eros, vitae laoreet orci auctor.</description>
     <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
